@@ -106,11 +106,10 @@ It classifies data based on **similarity** between examples.
 
 ## 3. Classification Metrics
 
-### **Accuracy**
-Measures the percentage of correct predictions out of all predictions.  
-\[
-Accuracy = \frac{Correct\ Predictions}{Total\ Predictions}
-\]
+#### **Accuracy**
+Measures the percentage of correct predictions out of all predictions.
+
+\[Accuracy = \frac{Correct\ Predictions}{Total\ Predictions}\]
 
 ### **Precision**
 Measures how many of the predicted positive results were actually positive.  
